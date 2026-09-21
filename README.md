@@ -36,7 +36,7 @@ built that way, and every notable failure it has taught me along the way.
   monitoring, logging, and known gaps
 - [Troubleshooting](docs/troubleshooting.md) -- 17 documented production
   issues with root causes, fixes, and the lessons that became procedure.
-  **The debugging log is the best part! :-)**
+  **The debugging log is the best part!**
 
 ## Why this repo exists
 
